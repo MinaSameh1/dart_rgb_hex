@@ -28,4 +28,4 @@ Then
 dart test testRGB.dart
 ```
 
-I would recommend [!reading](https://pub.dev/packages/test) this if you want to get more into testing :)
+I would recommend [reading](https://pub.dev/packages/test) this if you want to get more into testing :)
