@@ -28,4 +28,6 @@ Then
 dart test testRGB.dart
 ```
 
-I would recommend [reading](https://pub.dev/packages/test) this if you want to get more into testing :)
+I would recommend reading [this](https://pub.dev/packages/test) this if you want to get more into testing :)
+
+and reading the [Effective Dart](https://dart.dev/guides/language/effective-dart/documentation) for writing documentation. 
